@@ -40,7 +40,7 @@ $ ssh-keygen -t rsa -b 4096 -C "электронная почта, к которой привязан ваш аккаун
 ls -a ~/.ssh
 
 ## видео с примером
-[ссылка] (https://code.s3.yandex.net/git_Basic/SSH_Screencast.mp4 "https://code.s3.yandex.net")
+[ссылка](https://code.s3.yandex.net/git_Basic/SSH_Screencast.mp4 "https://code.s3.yandex.net")
 
 
 ## Привязать удалённый репозиторий к локальному — git remote add
